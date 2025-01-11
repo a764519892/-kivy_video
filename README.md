@@ -1,4 +1,4 @@
-2.0 Flash Experimental。有时可能无法按预期运作。
+
 你需要使用 Kivy 框架开发一个 Android 应用程序（并打包成 APK）。该应用包含两个主要功能：首页内容展示和检查更新。
 
 1. 首页 (Home Screen)
